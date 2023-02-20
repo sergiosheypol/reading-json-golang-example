@@ -5,5 +5,5 @@
 Just a very simple example on how to read and parse a JSON file in Golang 🚀
 
 If this was useful for you, give me a star and follow me on:
-* [https://www.tiktok.com/@sergiosheypol/] Tiktok
-* [https://www.youtube.com/@sergiosheypol] Youtube
+* [Tiktok](https://www.tiktok.com/@sergiosheypol/
+* [Youtube](https://youtube.com/@sergiosheypol)
